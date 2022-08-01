@@ -30,13 +30,13 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/pinks/OneDrive/바탕 화면/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/MyStudy/util/sqldeveloper-19.4.0.354.1759-x64/sqldeveloper/jdbc/lib/ojdbc8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/pinks/OneDrive/바탕 화면/lombok.jar"/>
-	<classpathentry kind="lib" path="C:/MyStudy/util/sqldeveloper-19.4.0.354.1759-x64/sqldeveloper/jdbc/lib/ojdbc8.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
