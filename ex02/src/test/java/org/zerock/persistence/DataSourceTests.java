@@ -19,7 +19,7 @@ import lombok.extern.log4j.Log4j;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("file:src/main/webapp/WEB-INF/spring/root-context.xml")
-//Java ¼³Á¤À» »ç¿ëÇÏ´Â °æ¿ì 
+//Java ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½ 
 //@ContextConfiguration(classes= {RootConfig.class})
 @Log4j
 public class DataSourceTests {
@@ -39,7 +39,6 @@ public class DataSourceTests {
 
       log.info(session);
       log.info(con);
-      
 
     } catch (Exception e) {
       fail(e.getMessage());
